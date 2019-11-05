@@ -1,5 +1,5 @@
-# CroSS-ZEro-GAME
-A small game Made on basis of 2d matrix and jawa awt(EASIEST WAY TO DO MAKE THIS GAME)
+                                      # CroSS-ZEro-GAME
+A small game Made on basis of 2d matrix and jawa awt(EASIEST WAY TO MAKE THIS GAME)
 ##############################################################################################
 ##############################################################################################
 ##############################################################################################
